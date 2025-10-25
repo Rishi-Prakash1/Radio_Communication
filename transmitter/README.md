@@ -61,6 +61,7 @@ python3 radio_control.py
 Keyboard Controls:
 
 Key	Action
+```
 f	Set frequency to 101.1 MHz
 v	Set frequency to 102.1 MHz
 w	Increase frequency by 1 MHz
@@ -70,3 +71,4 @@ d	Decrease frequency by 0.1 MHz
 m	Mute the radio
 u	Unmute / resume last frequency
 q	Quit and mute on exit
+```
